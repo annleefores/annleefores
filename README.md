@@ -1,4 +1,4 @@
 ## [Annlee Fores](https://annleefores.com/)
 
-_-_ on a path of endless learning ♾️ 
+on a path of endless learning ♾️ 
 
