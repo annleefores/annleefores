@@ -1,4 +1,3 @@
-## [Annlee Fores](https://annleefores.com/)
+# [Annlee Fores](https://annleefores.com/)
 
-on a path of endless learning ♾️ 
-
+Exploring the endless possibilities of tech
