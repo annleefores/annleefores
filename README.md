@@ -1,3 +1,3 @@
-# [Annlee Fores](https://annleefores.com/)
+## [Annlee Fores](https://annleefores.com/)
 
-Exploring the endless possibilities of tech
+Exploring the endless ♾️ possibilities of tech
