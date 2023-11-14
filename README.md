@@ -5,6 +5,8 @@ Exploring the endless ♾️ possibilities of tech
 #### Tech Stack
 - **Language**  -  Python, TypeScript, JavaScript, C  
 - **Libraries/Frameworks**  -  Django, Flask, FastAPI, Celery, Next.js, React, Node.js, TailwindCSS
-- **Cloud**  -  Amazon Web Services (AWS), DigitalOcean  
-- **Tools**  -  Terraform, Git, Linux, Bash Scripting, PostgreSQL, GitHub Actions, Jenkins, ArgoCD, Ansible, Docker, Kubernetes, Helm  
+- **Cloud & PaaS**  -  Amazon Web Services (AWS), DigitalOcean, Heroku 
+- **Technologies**  -  Git, Linux, Bash Scripting, Docker, Kubernetes, Helm, PostgreSQL
+- **CI/CD**  -    GitHub Actions, Jenkins, ArgoCD
+- **Infrastructure & Config Mgmt.**  -  Terraform, Cloudformation, CDK, Ansible
 - **Others**  -  Electronics, IoT, Digital Fabrication
