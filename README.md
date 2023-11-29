@@ -8,5 +8,5 @@ Exploring the endless ♾️ possibilities of tech
 - **Cloud & PaaS**  -  Amazon Web Services (AWS), DigitalOcean, Heroku 
 - **Technologies**  -  Git, Linux, Bash Scripting, Docker, Kubernetes, Helm, PostgreSQL
 - **CI/CD**  -    GitHub Actions, Jenkins, ArgoCD
-- **Infrastructure & Config Mgmt.**  -  Terraform, Cloudformation, CDK, Ansible
+- **Infrastructure & Config Mgmt.**  -  Terraform, CloudFormation, CDK, Ansible
 - **Others**  -  Electronics, IoT, Digital Fabrication
