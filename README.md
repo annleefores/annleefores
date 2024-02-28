@@ -3,7 +3,7 @@
 Exploring the endless ♾️ possibilities of tech
 
 #### Tech Stack
-- **Language**  -  Python, TypeScript, JavaScript, C  
+- **Language**  -  Python, TypeScript, JavaScript, C, SQL
 - **Libraries/Frameworks**  -  Django, Flask, FastAPI, Celery, Next.js, React, Node.js, TailwindCSS
 - **Cloud**  -  Amazon Web Services (AWS)
 - **Technologies**  -  Git, Linux, Bash Scripting, Docker, Kubernetes, Helm, PostgreSQL, Sonarqube, Kaniko
