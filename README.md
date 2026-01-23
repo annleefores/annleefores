@@ -1,6 +1,6 @@
 ## [Annlee Fores](https://annleefores.com/)
 
-Exploring the endless ♾️ possibilities of tech
+♾️ Exploring the endless possibilities of tech
 
 #### Tech Stack
 - **Language**  -  Python, TypeScript, JavaScript, C, SQL
