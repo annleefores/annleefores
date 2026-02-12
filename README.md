@@ -3,10 +3,11 @@
 ♾️ Exploring the endless possibilities of tech
 
 #### Tech Stack
-- **Language**  -  Python, TypeScript, JavaScript, C, SQL
-- **Libraries/Frameworks**  -  Django, Flask, FastAPI, Celery, Next.js, React, Node.js, TailwindCSS
-- **Cloud**  -  Amazon Web Services (AWS)
-- **Technologies**  -  Git, Linux, Bash Scripting, Docker, Kubernetes, Helm, PostgreSQL, Sonarqube, Kaniko
-- **CI/CD**  -    GitHub Actions, Jenkins, ArgoCD
-- **Infrastructure & Config Mgmt.**  -  Terraform, Ansible
-- **Others**  -  Electronics, IoT, Digital Fabrication
+- **Language**  -  Python, TypeScript, JavaScript, SQL
+- **Cloud & IaC** - AWS, CDK, Terraform, CloudFormation, Ansible
+- **Platform & Tooling** - Docker, Kubernetes, Helm, Linux, Bash Scripting, Sonarqube
+- **CI/CD** - GitHub Actions, GitLab CI/CD, ArgoCD
+- **Frameworks** - FastAPI, Flask, Django, Celery, Node.js, Next.js, React
+- **AI & ML** - LangChain, LangGraph, RAG, Prompt Engineering, MLOps
+- **Databases** - Snowflake, PostgreSQL, Redis
+- **Others** - Electronics, IoT, Digital Fabrication
